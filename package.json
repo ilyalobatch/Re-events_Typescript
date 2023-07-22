@@ -1,0 +1,83 @@
+{
+  "name": "re-vents_typescript",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^29.5.2",
+    "@types/node": "^20.4.2",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "@types/react-router-redux": "^5.0.22",
+    "connected-react-router": "^6.9.3",
+    "cuid": "^3.0.0",
+    "date-fns": "^2.30.0",
+    "firebase": "^7.15.4",
+    "formik": "^2.4.1",
+    "google-map-react": "^2.2.1",
+    "history": "^4.10.1",
+    "i18n": "^0.15.1",
+    "i18next": "^23.2.3",
+    "node-sass": "^9.0.0",
+    "react": "^18.2.0",
+    "react-calendar": "^4.3.0",
+    "react-cropper": "^2.3.3",
+    "react-datepicker": "^4.13.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-i18next": "^13.0.1",
+    "react-infinite-scroller": "^1.2.6",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^8.0.7",
+    "react-router-dom": "5.3",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.3",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.4",
+    "typescript": "^5.1.6",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "resolutions": {
+    "@types/react": "17.0.30"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && firebase deploy",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/google-map-react": "^2.1.7",
+    "@types/react-datepicker": "^4.11.2",
+    "@types/react-infinite-scroller": "^1.2.3",
+    "@types/react-places-autocomplete": "^7.2.9",
+    "@types/react-router-dom": "^5.3.3",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}

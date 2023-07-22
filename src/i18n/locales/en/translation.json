@@ -1,0 +1,195 @@
+{
+  "account": {
+    "button": {
+      "toFacebook": "Go to Facebook",
+      "toGoogle": "Go to Google"
+    },
+    "header": {
+      "changePassword": "Change Password",
+      "facebookAccount": "Facebook Account",
+      "googleAccount": "Google Account"
+    },
+    "message": {
+      "changePassword": "Use this form to change your password",
+      "visitFacebook": "Please visit Facebook to update your account",
+      "visitGoogle": "Please visit Google to update your account"
+    }
+  },
+  "category": {
+    "culture": "Culture",
+    "drinks": "Drinks",
+    "film": "Film",
+    "food": "Food",
+    "music": "Music",
+    "travel": "Travel"
+  },
+  "common": {
+    "appName": "Re-vents",
+    "getStarted": "Get Started",
+    "returnToEvents": "Return to events page"
+  },
+  "errors": {
+    "default": "Unknown error occured",
+    "docNotFound": "Could not find a document.",
+    "invalidUsernameOrPass": "Incorrect username or password"
+  },
+  "event": {
+    "button": {
+      "hideMap": "Hide Map",
+      "joinEvent": "JOIN THIS EVENT",
+      "leaveEvent": "Cancel My Place",
+      "manageEvent": "Manage Event",
+      "showMap": "Show Map",
+      "view": "View"
+    },
+    "cancelledLabel": "This event has been cancelled",
+    "chat": {
+      "textareaHint": "Please enter your comment (ENTER to submit, SHIFT + ENTER for a new line)"
+    },
+    "field": {
+      "category": "Category",
+      "city": "City",
+      "date": "Date",
+      "description": "Description",
+      "title": "Title",
+      "venue": "Venue"
+    },
+    "filter": {
+      "allEvents": "All Events",
+      "calendarLabel": "Select date",
+      "imGoing": "I'm going",
+      "imHosting": "I'm hosting",
+      "label": "Filters"
+    },
+    "header": {
+      "chatAboutEvent": "Chat about this event",
+      "details": "Event Details",
+      "locationDetails": "Event Location Details",
+      "newsFeed": "News feed",
+      "signInToComment": "Sign in to view and comment"
+    },
+    "hostedBy": "Hosted by",
+    "loading": "Loading event...",
+    "message": {
+      "attendeeGoing": "{{count}} Person Going",
+      "attendeeGoing_plural": "{{count}} People Going",
+      "cancelEvent": "This will cancel the selected event. Are you sure?",
+      "deleteEvent": "This will delete the selected event. Are you sure?",
+      "joinedEvent": "You have subscribed for the current event",
+      "leftEvent": "You have unsubscribed from the current event",
+      "reactivateEvent": "This will reactivate the selected event. Are you sure?"
+    }
+  },
+  "footer": {
+    "copyright": "© {{ year }} Re-vents. All rights reserved."
+  },
+  "form": {
+    "button": {
+      "cancel": "Cancel",
+      "cancelEvent": "Cancel Event",
+      "create": "Create",
+      "deleteEvent": "Delete Event",
+      "login": "Login",
+      "reactivateEvent": "Reactivate Event",
+      "register": "Register",
+      "update": "Update",
+      "updatePassword": "Update Password"
+    },
+    "field": {
+      "confirmPassword": "Confirm Password",
+      "displayName": "Display Name",
+      "email": "Email Address",
+      "newPassword": "New Password",
+      "password": "Password"
+    },
+    "message": {
+      "eventCancelled": "Event was cancelled",
+      "eventCreated": "Event was created successfully",
+      "eventDeleted": "Event was deleted successfully",
+      "eventReactivated": "Event was reactivated",
+      "eventUpdated": "Event was updated successfully",
+      "inconsistentPasswords": "Passwords do not match",
+      "passwordRequired": "Password is required"
+    }
+  },
+  "modal": {
+    "button": {
+      "login": "Login",
+      "register": "Register"
+    },
+    "login": {
+      "header": "Sign in to React Events"
+    },
+    "message": {
+      "continueAsGuest": "Or click cancel to continue as a guest",
+      "loginOrRegister": "Please either login or register to see this content",
+      "registerInApp": "Register to React Events",
+      "unauthorized": "You need to be signed in to do that"
+    },
+    "social": {
+      "facebookLogin": "Login with Facebook",
+      "googleLogin": "Login with Google"
+    }
+  },
+  "navigation": {
+    "item": {
+      "account": "My Account",
+      "createEvent": "Create Event",
+      "events": "Events",
+      "login": "Login",
+      "profile": "My Profile",
+      "register": "Register",
+      "signOut": "Sign out"
+    }
+  },
+  "profile": {
+    "button": {
+      "follow": "Follow",
+      "following": "Following",
+      "notFollowing": "Not following",
+      "unfollow": "Unfollow",
+      "updateProfile": "Update Profile"
+    },
+    "field": {
+      "description": "Description",
+      "displayName": "Display Name"
+    },
+    "imageUploader": {
+      "hint": "Drop image here",
+      "step1": "Step 1 - Add Photo",
+      "step2": "Step 2 - Resize",
+      "step3": "Step 3 - Preview & Upload"
+    },
+    "loading": "Loading profile...",
+    "panes": {
+      "about": {
+        "cancelEdit": "Cancel",
+        "edit": "Edit",
+        "label": "About",
+        "memberSince": "Member since:"
+      },
+      "events": {
+        "future": "Future Events",
+        "hosting": "Hosting",
+        "label": "Events",
+        "past": "Past Events"
+      },
+      "followers": {
+        "label": "Followers"
+      },
+      "following": {
+        "label": "Following"
+      },
+      "photos": {
+        "cancelEdit": "Cancel",
+        "edit": "Add Photo",
+        "label": "Photos",
+        "main": "Main"
+      }
+    },
+    "stats": {
+      "followers": "Followers",
+      "following": "Following"
+    }
+  }
+}

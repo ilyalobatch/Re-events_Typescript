@@ -1,0 +1,38 @@
+body {
+  background-color: #eaeaea;
+}
+
+.ui {
+  &.main {
+    min-height: calc(100vh - 47px); // screen height minus footer height
+
+    &.container {
+      padding-top: 6rem;
+      padding-bottom: 2rem;
+    }
+  }
+
+  .card {
+    div.image {
+      min-height: 150px;
+
+      img {
+        height: 100% !important;
+        object-fit: cover;
+      }
+    }
+  }
+
+  &.homepage {
+    justify-content: center;
+
+    .lang-switcher-wrapper {
+      width: 100%;
+      margin: 2.5rem 0;
+    }
+  }
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}

@@ -1,0 +1,194 @@
+{
+  "account": {
+    "button": {
+      "toFacebook": "Перейти до Facebook",
+      "toGoogle": "Перейти до Google"
+    },
+    "header": {
+      "changePassword": "Змінити пароль",
+      "facebookAccount": "Аккаунт Facebook",
+      "googleAccount": "Аккаунт Google"
+    },
+    "message": {
+      "changePassword": "За допомогою цієї форми Ви можете змінити свій пароль",
+      "visitFacebook": "Будь ласка, скористайтесь Facebook, щоб оновити ваш обліковий запис",
+      "visitGoogle": "Будь ласка, скористайтесь Google, щоб оновити ваш обліковий запис"
+    }
+  },
+  "category": {
+    "culture": "Культура",
+    "drinks": "Напої",
+    "film": "Кіно",
+    "food": "Їжа",
+    "music": "Музика",
+    "travel": "Подорожі"
+  },
+  "common": {
+    "appName": "Re-vents",
+    "getStarted": "Почати",
+    "returnToEvents": "Повернутися на сторінку заходів"
+  },
+  "errors": {
+    "default": "Сталася невідома помилка",
+    "docNotFound": "Неможливо знайти документ",
+    "invalidUsernameOrPass": "Неправильний логін або пароль"
+  },
+  "event": {
+    "button": {
+      "hideMap": "Сховати карту",
+      "joinEvent": "Прийняти участь",
+      "leaveEvent": "Скасувати участь",
+      "manageEvent": "Редагувати",
+      "showMap": "Показати карту",
+      "view": "Детальніше"
+    },
+    "cancelledLabel": "Подія скасована",
+    "chat": {
+      "textareaHint": "Будь ласка, введіть свій коментар (ENTER для публікації коментаря, SHIFT + ENTER для переходу на новий рядок)"
+    },
+    "field": {
+      "category": "Категорія",
+      "city": "Місто",
+      "date": "Дата",
+      "description": "Опис",
+      "title": "Назва",
+      "venue": "Місце"
+    },
+    "filter": {
+      "allEvents": "Усі події",
+      "calendarLabel": "Виберіть дату",
+      "imGoing": "Я беру участь",
+      "imHosting": "Організовані мною",
+      "label": "Фільтри"
+    },
+    "header": {
+      "chatAboutEvent": "Чат про поточну подію",
+      "details": "Деталі події",
+      "locationDetails": "Місце проведення",
+      "newsFeed": "Стрічка новин",
+      "signInToComment": "Увійдіть, щоб переглядати і додавати коментарі"
+    },
+    "hostedBy": "Організатор",
+    "loading": "Завантаження події...",
+    "message": {
+      "attendeeGoing": "{{count}} людей йдуть",
+      "cancelEvent": "Ця дія скасує поточну подію. Ви впевнені?",
+      "deleteEvent": "Ця дія видалить поточну подію. Ви впевнені?",
+      "joinedEvent": "Ви підписалися на поточну подію",
+      "leftEvent": "Ви відписалися від поточної події",
+      "reactivateEvent": "Ця дія відновить поточну подію. Ви впевнені?"
+    }
+  },
+  "footer": {
+    "copyright": "© {{ year }} Re-vents. Усі права захищені."
+  },
+  "form": {
+    "button": {
+      "cancel": "Скасувати",
+      "cancelEvent": "Скасувати подію",
+      "create": "Створити",
+      "deleteEvent": "Видалити подію",
+      "login": "Увійти",
+      "reactivateEvent": "Відновити подію",
+      "register": "Зареєструватися",
+      "update": "Оновити",
+      "updatePassword": "Оновити пароль"
+    },
+    "field": {
+      "confirmPassword": "Підтвердити пароль",
+      "displayName": "Відображуване ім'я",
+      "email": "Ел. пошта",
+      "newPassword": "Новий пароль",
+      "password": "Пароль"
+    },
+    "message": {
+      "eventCancelled": "Подія скасована",
+      "eventCreated": "Подія успішно створена",
+      "eventDeleted": "Подія успішно видалена",
+      "eventReactivated": "Подія відновлена",
+      "eventUpdated": "Подія успішно оновлена",
+      "inconsistentPasswords": "Паролі не збігаються",
+      "passwordRequired": "Пароль обов'язковий"
+    }
+  },
+  "modal": {
+    "button": {
+      "login": "Увійти",
+      "register": "Зареєструватися"
+    },
+    "login": {
+      "header": "Увійти в React Events"
+    },
+    "message": {
+      "continueAsGuest": "Або натисніть кнопку Скасувати, щоб продовжити як гість",
+      "loginOrRegister": "Будь ласка, увійдіть або зареєструйтесь, щоб переглянути цей вміст",
+      "registerInApp": "Реєстрація в React Events",
+      "unauthorized": "Ви повинні увійти, щоб зробити це"
+    },
+    "social": {
+      "facebookLogin": "Увійти через Facebook",
+      "googleLogin": "Увійти через Google"
+    }
+  },
+  "navigation": {
+    "item": {
+      "account": "Мій аккаунт",
+      "createEvent": "Створити подію",
+      "events": "Події",
+      "login": "Увійти",
+      "profile": "Мій профіль",
+      "register": "Реєстрація",
+      "signOut": "Вийти"
+    }
+  },
+  "profile": {
+    "button": {
+      "follow": "Підписатися",
+      "following": "Підписаний",
+      "notFollowing": "Не підписаний",
+      "unfollow": "Відписатися",
+      "updateProfile": "Оновити профіль"
+    },
+    "field": {
+      "description": "Опис",
+      "displayName": "Відображуване ім'я"
+    },
+    "imageUploader": {
+      "hint": "Перетягніть зображення сюди",
+      "step1": "Крок 1 - Додати фото",
+      "step2": "Крок 2 - Змінити розмір",
+      "step3": "Крок 3 - Перегляд і завантаження"
+    },
+    "loading": "Завантаження профілю...",
+    "panes": {
+      "about": {
+        "cancelEdit": "Скасувати",
+        "edit": "Редагувати",
+        "label": "Про користувача",
+        "memberSince": "Зареєстрований з:"
+      },
+      "events": {
+        "future": "Майбутні події",
+        "hosting": "Організовані",
+        "label": "Події",
+        "past": "Минулі події"
+      },
+      "followers": {
+        "label": "Підписники"
+      },
+      "following": {
+        "label": "Підписки"
+      },
+      "photos": {
+        "cancelEdit": "Скасувати",
+        "edit": "Додати фото",
+        "label": "Фото",
+        "main": "Осн."
+      }
+    },
+    "stats": {
+      "followers": "Підписники",
+      "following": "Підписки"
+    }
+  }
+}
